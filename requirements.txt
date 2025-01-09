@@ -1,3 +1,5 @@
-"streamlit" 
-"rembg" 
-"Pillow" 
+streamlit
+rembg
+Pillow
+numpy
+opencv-python
